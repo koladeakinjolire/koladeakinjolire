@@ -1,5 +1,5 @@
 ### Hi 👋🏿 I'm Kolade 👨🏿‍💻.
-                              Aspiring Sports Data Scientist 📈 📉  📊 ⚽️ 🏀
+                              Aspiring Data Scientist 
 
 
 - 🔭 I’m currently working on: Learning Python & SQL as well as building my Portfolio.
